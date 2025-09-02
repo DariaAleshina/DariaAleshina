@@ -1,3 +1,6 @@
+<!-- ## Let's  Connect -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daria_in_berlin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ddaleshina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ddaleshina@gmail.com)
+<br> 
 # ✨ Hi, I’m Daria
 Career changer into Software Development from a background in Consumer Marketing.<br> 
 Passionate about Frontend Development, Web Design & Sustainabilty.<br> 
@@ -18,16 +21,13 @@ Based in 🇩🇪 Berlin.<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <br> 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)<br> 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+<br> 
 
-<!-- ## Let's  Connect -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daria_in_berlin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ddaleshina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ddaleshina@gmail.com) 
-
-## Featured projects
-<p><a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></p> 
-<p><a href="https://forkify-recipe-app-daria-aleshina.netlify.app/"><img align="left" src="https://forkify-recipe-app-daria-aleshina.netlify.app/public/forkify-preview.png" height="126" width="240" alt="Forkify" /></p>
-<p><a href="https://pulseflow-by-daria-aleshina.netlify.app/"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></p>
-
+## Top 3 latest projects
+<p><a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app" target="_blank"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></p> 
+<p><a href="https://forkify-recipe-app-daria-aleshina.netlify.app/" target="_blank"><img align="left" src="https://forkify-recipe-app-daria-aleshina.netlify.app/public/forkify-preview.png" height="126" width="240" alt="Forkify" /></p>
+<p><a href="https://pulseflow-by-daria-aleshina.netlify.app/" target="_blank"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></p>
 
 
 
