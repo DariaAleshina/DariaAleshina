@@ -25,9 +25,10 @@ Share my coding journey on [Threads](https://www.threads.net/@daria_in_berlin)<b
 <br> 
 
 ## Top 3 latest projects
-<p><a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app" target="_blank"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></a></p> 
-<p><a href="https://forkify-recipe-app-daria-aleshina.netlify.app/" target="_blank"><img align="left" src="https://forkify-recipe-app-daria-aleshina.netlify.app/public/forkify-preview.png" height="126" width="240" alt="Forkify" /></a></p>
-<p><a href="https://pulseflow-by-daria-aleshina.netlify.app/" target="_blank"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></a></p>
+<a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></a> 
+<a href="https://forkify-recipe-app-daria-aleshina.netlify.app/"><img align="left" src="https://forkify-recipe-app-daria-aleshina.netlify.app/public/forkify-preview.png" height="126" width="240" alt="Forkify" /></a>
+<a href="https://pulseflow-by-daria-aleshina.netlify.app/"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></a>
+
 
 
 
