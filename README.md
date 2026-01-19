@@ -29,8 +29,8 @@ Share my coding journey on [Threads](https://www.threads.net/@daria_in_berlin)<b
 <br> 
 
 ## Top 3 latest projects
+<a href="https://www.goosefreelancer.com"><img align="left" src="https://www.goosefreelancer.com/images/url-preview-image.png" height="126" width="240" alt="Goose Freelamcers" /></a>
 <a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></a> 
-<a href="https://forkify-recipe-app-daria-aleshina.netlify.app/"><img align="left" src="https://forkify-recipe-app-daria-aleshina.netlify.app/public/forkify-preview.png" height="126" width="240" alt="Forkify" /></a>
 <a href="https://pulseflow-by-daria-aleshina.netlify.app/"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></a>
 
 
