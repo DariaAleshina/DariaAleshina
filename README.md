@@ -29,7 +29,7 @@ Share my coding journey on [Threads](https://www.threads.net/@daria_in_berlin)<b
 <br> 
 
 ## Top 3 latest projects
-<a href="https://www.goosefreelancer.com"><img align="left" src="https://www.goosefreelancer.com/images/url-preview-image.png" height="126" width="240" alt="Goose Freelancers" /></a>
+<a href="https://www.goosefreelancer.com"><img align="left" src="https://media.licdn.com/dms/image/v2/D4D12AQFWJfNTBquFwQ/article-cover_image-shrink_720_1280/B4DZp9TPPdJcAI-/0/1763038787093?e=1772064000&v=beta&t=q3N2RW2djRcLFZXyLyaZUcDl40z-4L1znzE9t4j-Fpg" height="126" width="240" alt="Goose Freelancers" /></a>
 <a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></a> 
 <a href="https://pulseflow-by-daria-aleshina.netlify.app/"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></a>
 
