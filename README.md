@@ -2,8 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daria_in_berlin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ddaleshina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ddaleshina@gmail.com)
 <br> 
 # ✨ Hi, I’m Daria
-Career changer into Software Development from a background in Consumer Marketing.<br> 
-Passionate about Frontend Development, Web Design & Sustainabilty.<br> 
+Frontend Focused Developer with background in Business & Marketing.<br> 
 Share my coding journey on [Threads](https://www.threads.net/@daria_in_berlin)<br> 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -28,9 +27,9 @@ Share my coding journey on [Threads](https://www.threads.net/@daria_in_berlin)<b
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <br> 
 
-## Top 3 latest projects
-<a href="https://www.goosefreelancer.com"><img align="left" src="https://media.licdn.com/dms/image/v2/D4D12AQFWJfNTBquFwQ/article-cover_image-shrink_720_1280/B4DZp9TPPdJcAI-/0/1763038787093?e=1772064000&v=beta&t=q3N2RW2djRcLFZXyLyaZUcDl40z-4L1znzE9t4j-Fpg" height="126" width="240" alt="Goose Freelancers" /></a>
+## Personal projects
 <a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></a> 
+<a href="https://forkify-recipe-app-daria-aleshina.netlify.app"><img align="left" src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEBdmiZXi1e6g/articleshare-shrink_800/B4DZeDfribHkAI-/0/1750257810109?e=1773954000&v=beta&t=VFpnnR070ru8jjHKEKv47ZQwt8fJ8jWLKlGqaZpjhRU" height="126" width="240" alt="Forkify: Search and add recipies" /></a>
 <a href="https://pulseflow-by-daria-aleshina.netlify.app/"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></a>
 
 
