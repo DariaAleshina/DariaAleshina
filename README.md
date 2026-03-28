@@ -27,7 +27,7 @@ Share my coding journey on [Threads](https://www.threads.net/@daria_in_berlin)<b
 
 ## Personal projects
 <a href="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app"><img align="left" src="https://frenchie-tamagotchi-by-daria-aleshina.netlify.app/snippet.png" height="126" width="240" alt="Frenchie Tamagitchi" /></a> 
-<a href="https://forkify-recipe-app-daria-aleshina.netlify.app"><img align="left" src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEBdmiZXi1e6g/articleshare-shrink_800/B4DZeDfribHkAI-/0/1750257810109?e=1773954000&v=beta&t=VFpnnR070ru8jjHKEKv47ZQwt8fJ8jWLKlGqaZpjhRU" height="126" width="240" alt="Forkify: Search and add recipies" /></a>
+<a href="https://forkify-recipe-app-daria-aleshina.netlify.app"><img align="left" src="https://forkify-recipe-app-daria-aleshina.netlify.app/public/forkify-preview.png" height="126" width="240" alt="Forkify: Search and add recipies" /></a>
 <a href="https://pulseflow-by-daria-aleshina.netlify.app/"><img align="left" src="https://pulseflow-by-daria-aleshina.netlify.app/img/pulseflow-preview.png" height="126" width="240" alt="PulseFlow landing page" /></a>
 
 
